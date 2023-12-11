@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Felicitación de Año Nuevo para Dorothea</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Feliz Año Nuevo, Dorothea</h1>
+        </header>
+        <section class="poem">
+            <p>Querida Dorothea, eres un ejemplo sin igual,</p>
+            <p>tu luz brillante es muy especial.</p>
+            <p>Deseo que este año nuevo,</p>
+            <p>sea un lienzo para tus sueños.</p>
+            
+            <p>En ti encuentro una guía,</p>
+            <p>tranquilidad para el alma mía.</p>
+            <p>Tu inspiración es un ejemplo,</p>
+            <p>aprender contigo es un regalo.</p>
+            
+            <p>Gracias por tu paz y tu calma,</p>
+            <p>por todo lo aprendido esta etapa.</p>
+            <p>Gracias por dedicarme unas palabras,</p>
+            <p>cuando más lo necesitaba.</p>
+            
+            <p>Espero que para ti y los tuyos,</p>
+            <p>sea un año repleto de éxitos.</p>
+            <p>Que el 2024 de energía te llene,</p>
+            <p>tu risa resuene y tu amor despegue.</p>
+        </section>
+        <footer>
+            <p>Felices fiestas.</p>
+            <p>Con cariño, Carlos.</p>
+        </footer>
+    </div>
+</body>
+</html>
